@@ -129,13 +129,12 @@ than women. Interestingly, for equipment and moving violation, the rate for both
 
 # References
 
-[1] T. S. O. P. Project, "Standford Open Policing," [Online]. Available: https://openpolicing.stanford.edu/data/. 
-[2] E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff and S. Goel, "A large-scale analysis of racial disparities in police," Nature Human Behaviour, vol. 4, pp. 736-745, 2020.
-[3] H. S. Judiciary, "courts.state.hi.us," [Online]. Available: https://www.courts.state.hi.us/self-
+* [1] T. S. O. P. Project, "Standford Open Policing," [Online]. Available: https://openpolicing.stanford.edu/data/. 
+* [2] E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff and S. Goel, "A large-scale analysis of racial disparities in police," Nature Human Behaviour, vol. 4, pp. 736-745, 2020.
+* [3] H. S. Judiciary, "courts.state.hi.us," [Online]. Available: https://www.courts.state.hi.us/self-
 help/traffic/moving_citations#:~:text=An%20equipment%20violation%20is%20a,as%20moving% 20or%20parking%20violations.. [Accessed 10 15 2020].
-[4] F. l. w. a. editors, "findlaw.com," 20 06 2016. [Online]. Available: https://www.findlaw.com/hirealawyer/choosing-the-right-lawyer/traffic-
-violations.html#:~:text=A%20moving%20violation%20occurs%20whenever,to%20parking%20or%20faulty%20equipment.. [Accessed 15 10 2020].
-[5] https://www.oakgov.com/, "https://www.oakgov.com/," [Online]. Available: https://www.oakgov.com/courts/district-courts/52-2/traffic/Pages/license-registration- violations.aspx. [Accessed 15 10 2020].
-[6] M. Law, "minicklaw.com," 24 01 2014. [Online]. Available: https://www.minicklaw.com/inventory-search-vehicle-legal/#:~:text=An%20inventory%20search%20is%20a,a%20variety%20of%20administrative%20functions.. [Accessed 15 10 2020].
-[7] Probable Cause vs Reasonable Suspicion. [Film]. United States: Jules St James, 2019.
-[8] "wikipedia.org," [Online]. Available: https://en.wikipedia.org/wiki/Searches_incident_to_a_lawful_arrest. [Accessed 15 10 2020].
+* [4] F. l. w. a. editors, "findlaw.com," 20 06 2016. [Online]. Available: https://www.findlaw.com/hirealawyer/choosing-the-right-lawyer/traffic-violations.html. [Accessed 15 10 2020].
+* [5] https://www.oakgov.com/, "https://www.oakgov.com/," [Online]. Available: https://www.oakgov.com/courts/district-courts/52-2/traffic/Pages/license-registration-violations.aspx. [Accessed 15 10 2020].
+* [6] M. Law, "minicklaw.com," 24 01 2014. [Online]. Available: https://www.minicklaw.com/inventory-search-vehicle-legal/#:~:text=An%20inventory%20search%20is%20a,a%20variety%20of%20administrative%20functions.. [Accessed 15 10 2020].
+* [7] Probable Cause vs Reasonable Suspicion. [Film]. United States: Jules St James, 2019.
+* [8] "wikipedia.org," [Online]. Available: https://en.wikipedia.org/wiki/Searches_incident_to_a_lawful_arrest. [Accessed 15 10 2020].
