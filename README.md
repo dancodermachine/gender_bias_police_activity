@@ -9,8 +9,8 @@ to discover if gender bias exists on search conductions, the type of search and 
 search. The work that will be done is using descriptive statistic (describing the sample data). This
 project does not try to infer from the data.
 
-The analysis was done using the following python packages: Pandas, NumPy, Seaborn, Matplotlib, Os,
-Sys, Requests
+The analysis was done using the following python packages: Pandas, Seaborn, Matplotlib, Os,
+Sys, Requests.
 
 ## Definitions:
 
