@@ -40,6 +40,8 @@ search_conducted:
 
 ## Do genders commit different violations?
 
+<img src="men_violations.png" alt="Men Violations"> <img src="women_violations.png" alt="Women Violations">
+
 65.81% of women traffic stops are for speeding, 13.82% for moving violation, 10.52% for equipment
 violation, 4.44% for problems on the registration of car or plates, 2.43% for not using seat belt. In
 contrast, 52.22% of men traffic stops are for speeding, 20.61% for moving violation, 13.42% for
@@ -49,6 +51,8 @@ moving violations than women, however, since we did not consider the number of s
 
 
 ## Does gender affect whose vehicle is searched?
+
+<img src="search_conduction.png" alt="Search Conductions">
 
 The percentage of people to be searched given that are male and have been stopped by a
 registration/plates violation is 10.88%. On the other hand, the percentage of people to be searched
@@ -73,6 +77,8 @@ Overall, men are being searched more than women for all violations.
 
 ## Is there gender bias on each type of search?
 
+<img src="type_search.png" alt="Type Search">
+
 10.1% of men are searched due to a reasonable suspicion, almost as twice as women (5.92%). 9 .4 4 %
 of men are searched due to protective frisk, around 2% more than women (7.46%). 36.79% of men
 are searched due to a probable cause, around 4% more than women (32.68%). 12.66% of men’s
@@ -84,6 +90,8 @@ However, in the ‘inventory’ and ‘incident to arrest’ categories, women h
 
 
 ## Does gender affect who gets a ticket?
+
+<img src="Citation.png" alt="Citation">
 
 The percentage of people getting a ticket given that are female and stopped due to speeding is 95.22%,
 around 1% more than males. The percentage of people getting a ticket given that are female and
@@ -100,6 +108,8 @@ higher citation rates.
 
 ## Does gender affect who gets a warning?
 
+<img src="Warning.png" alt="Warning">
+
 The percentage of people getting a warning given that are female and committed a speeding violation
 is 4.01%, around the same for males (3.62%). The percentage of people getting a warning given that
 are female and have been stopped due to a seat belt violation is 14.53%, around 3% more than men.
@@ -114,6 +124,8 @@ for speeding and registration/plates violation, the rate for both sexes are the 
 
 
 ## Does gender affect if the driver gets arrested?
+
+<img src="Arrest Driver.png" alt="Arrested Driver">
 
 The percentage of people getting arrested given that are female and have committed a speeding
 violation is 0.58%, three times less than men. The percentage of people getting arrested given that
